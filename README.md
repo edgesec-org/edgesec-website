@@ -5,8 +5,4 @@
 
 **Address:** [Sepapaja 6, 15551 Tallinn, Estonia](https://goo.gl/maps/1c4Gmzd2pKEF441v7)
 
-### Current projects
-
-See [EdgeCA](https://edgeca.org), our ephemeral, in-memory CA providing service mesh machine identities.
-
-Our latest project is [EdgeQL](https://edgeql.io) - to be released in the summer of 2021.
+We develop innovatice software to provide developers with a fast, easy, and integrated source of machine identities. Have a look at [EdgeCA](https://edgeca.org), our ephemeral, in-memory CA providing service mesh machine identities. 
