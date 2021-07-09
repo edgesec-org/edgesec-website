@@ -1,4 +1,6 @@
-**EdgeSec OÜ** is an Estonian organization developing open source software for Edge Computing and IoT Security.
+  ![EdgeSec logo](/images/logo_small.png)
+  
+  **EdgeSec OÜ** is an Estonian organization developing open source software for Edge Computing and IoT Security.
 
 
 **Address:** [Sepapaja 6, 15551 Tallinn, Estonia](https://goo.gl/maps/1c4Gmzd2pKEF441v7)
